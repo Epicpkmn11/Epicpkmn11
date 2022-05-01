@@ -4,7 +4,7 @@ I'm Pk11, see [pk11.us](https://pk11.us) for more about me. I mainly work on hom
 
 GitHub only lets you pin 6 repos so here's some more 'pins':
 
-<details><summary>Extra pins</summary>
+<details>
 
 I link the upstream repo in cases where my contributions are PRs and my own fork in cases where I have created a fork without the intention of my changes being merged upstream.
 
