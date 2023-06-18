@@ -1,7 +1,3 @@
-2FA sucks and is even worse when email 2FA isn't an option, I will be quiet on GitHub for the time being and may move to a different site.
-
----
-
 Hi .o/
 
 I'm Pk11, see [pk11.us](https://pk11.us) for more about me. I mainly work on homebrew apps for the Nintendo DS(i), sometimes the 3DS, and websites related to that.
