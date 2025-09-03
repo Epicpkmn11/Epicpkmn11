@@ -1,6 +1,6 @@
 Hi .o/
 
-I'm Pk11, see [pk11.us](https://pk11.us) for more about me. I mainly work on homebrew apps for the Nintendo DS(i), sometimes the 3DS, and websites related to that.
+I'm Pk11, see [pk11.sh](https://pk11.sh) for more about me. I mainly work on homebrew apps for the Nintendo DS(i), sometimes the 3DS, and websites related to that.
 
 GitHub only lets you pin 6 repos so here's some more 'pins':
 
